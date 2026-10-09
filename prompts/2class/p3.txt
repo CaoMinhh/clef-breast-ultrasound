@@ -1,0 +1,15 @@
+Evaluate the breast ultrasound image using lesion morphology,
+margin, orientation, echogenicity, posterior acoustic features,
+and surrounding tissue appearance.
+
+Benign:
+Features predominantly compatible with a benign lesion,
+such as an oval/round shape, circumscribed margin,
+and parallel orientation.
+
+Malignant:
+Features predominantly suspicious for malignancy,
+such as irregular shape, non-circumscribed margin,
+non-parallel orientation, or suspicious posterior acoustic features.
+
+Choose exactly one category: benign or malignant.

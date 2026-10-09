@@ -1,0 +1,2 @@
+Choose exactly one category:
+normal, benign, malignant.
